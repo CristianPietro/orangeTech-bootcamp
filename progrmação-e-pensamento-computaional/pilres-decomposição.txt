@@ -1,0 +1,190 @@
+DECOMPOSIÇÃO:
+
+- Processo de quebrar e determinar
+partes menores e gerenciáveis
+* análise
+
+ESTRATÉGIA:
+- estudar, explorar
+- realizar exme detalhado
+- decompor em elementos constituintes
+
+
+DECOMPOSIÇÃO:
+
+Combinar os elementos
+recompondo o problema original
+* síntese
+
+ESTRATÉGIA:
+
+- Processo de reconstrução
+- Fundir os elemento de maneira
+coerente
+- consiste em reunir elementos
+distintos em um único elemento
+
+
+ORDEM DE EXECUÇÃO DE TAREFAS MENORES
+
+- Sequêncial
+
+* Dependência entre tarefas.
+executadas em fila.
+
+- Paralelo
+
+* Tarefas podem ser executadas
+concomitantemente
+
+
+--
+
+- Não basta aplicar
+-Desenvolver a decomposição "by yourself"
+
+* Variáveis
+* pequenos problemas
+* Segmentação
+* Maneiras distintas de
+decompor o mesmo
+problema
+
+COMO DECOMPOR?
+
+- identificar ou coletr dados
+- agregar dados
+- funcionalidade
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

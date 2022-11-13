@@ -1,0 +1,128 @@
+ux design:
+
+- design de experience do usuario ,  o processo que visa melhora a satisfação do usuario com um produto ou serviço
+melhorando a usuabilidade a acessibilidade  e ate mesmi a satisfação proporcionada na interação.
+
+--
+
+feramentas ultilizadas no UI/UX:
+
+Design: Adobe, figma, entre outras
+
+--
+Comportamento UX:
+
+pesquisa, prototipos, personas, objetivos
+
+--
+
+Comportamento UI:
+
+design, tipografia, cores, layouts
+
+
+--
+
+FRAMEWORKS
+
+é de forma basica um facilitador
+
+tras diversas soluçoes pre definidas que descomplicam o trabalho dos profissionais
+no desenvolvimento de aplicativos e outros projetos;
+
+--
+
+BACK END
+
+Faza ponte entre o back end e o front end
+
+--  
+
+API
+
+Acronimo de application programming interface,
+um intermediario que permite que dois aplicativo conversem entre si
+
+--
+
+FULL STACK
+
+o desenvolvedor full stack é alguem que  trabalha  com o back end e o front end
+do aplicativo
+
+
+--
+
+
+Quality Assurance QA
+
+QA pode pode ser  definida como um conjunto de açoes que as empresas realizam com o objetivo de entregar aos consumidores um produto ou serviço com alto nivel de qualidade. No desevolvimento de software, aplicar os metodos de QA geram confiança e segurança aos clientes, indicando que os produtos terão qualidade esperada na etapa de implementalção
+
+conhecimento sobre as atividades do projeto
+perfil analitico
+
+--
+
+MODELO CLIENT-SERVIDOR
+
+é uma estrutura de aplicações que distribui as tarefas e cargas de trabalo entre os fornecedores ded um recurço ou serviço
+designados coo servidores, o os requerentes dos srviços, designado como cliente.
+
+ATIVIDADES E PROFISSIONAIS EM NUVEM PRIVADA
+
+1 segurança da tecnologia da informação (lógia e física)
+2 Mão de obra especializada (software e hardwere)
+3infraestrutura local
+
+
+--
+
+
+
+NUVEM PÚBLICA
+
+
+Os sistemas em nuvens são sitesmmas de armazenamento de dados disponibilizados via internet, 
+em vez de servidores físicos tradicionais. Hoje muitas organizaçãoes estão migrando
+o armazenamento de dados de servidores físicos para sistemas beaseado em nuvens
+
+VANTAGENS DE MIGRAR PARA A NUVEM PÚBLICA
+
+1 Preço (pague somente o que usar)
+2 Facilidadede contratação, configuração e infraestrutura
+3 escabilidade
+4 performace
+
+PROFISSIONAL DE CLOUD COMPUTING
+
+É responsável pela infraestrutura  de nuvem oferecida aos clientes.
+Mais do que desenhar sestemas ou ambientes de ti,
+ele escolhe as tecnologias que serão usadas, quais operadores
+são as mais interessantes, como as peças vão ser integradas
+e no fim cuida do que foi construido
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

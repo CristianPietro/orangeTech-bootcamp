@@ -1,0 +1,138 @@
+OVERVIEW
+
+	
+PENSAMENTO COMPUTACIONAL?
+
+- Processo de pensamento envolvido na expressão de 
+soluções em passos computacionais ou algoritmos
+que podem ser implementados no computador
+
+- Sistematico e eficiente
+- Formulação e resolução de problemas
+- humanos e maquinas sejam capazes de resolver
+
+- Habilidade generalista
+
+-matematica, leitura, escrita
+
+
+PENSAMENTO COMPUTACIONA ESTA BASEADO EM 4 PILARES
+
+- dividir um problema complexo em subproblemas:
+*decomposição
+*reconhecimento de padrões
+*abstração
+*Design de algoritmo
+
+PROCESSO CONTINUO: 
+
+- definir uma solução
+- testar a solução
+- aperfeiçoamento da
+solução
+
+-testar
+-analisar
+-refinar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

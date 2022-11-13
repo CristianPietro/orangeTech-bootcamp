@@ -1,0 +1,51 @@
+ANÁLISE LÉXICA
+
+- Particionar -> Classificar -> Eliminar
+
+* Elementos 
+denomindos tokens (particionar)
+
+Elementos: ( classificar)
+
+*identificadores, palavras reservadas, números, strings
+
+Elementos: (eliminar)
+ caracteres de espaço em branco, 
+comentarios, etc..
+
+
+ANÁLISE SINTATICA:
+
+- Sintaxe: 
+
+*Componente do sistema linguístico que interligam os constituintes da sentenças, atribuindo-lhe uma estrutura
+
+
+- Padrão- gramática
+* Depende da linguagem de programação usada
+
+
+
+ANÁLISE SEMÂNTICA:
+
+Semântica:
+* É o estudo do significado. Incide sobre a relação entre significantes, como: palavras, frase, sinais e símbolos.
+
+Erro na semântica:
+* nao faz o que é espeado
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

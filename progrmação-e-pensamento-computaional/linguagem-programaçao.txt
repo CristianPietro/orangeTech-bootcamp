@@ -1,0 +1,137 @@
+INTRODUÇÃO
+
+- Código fonte:
+
+* intepretação
+* Tradução
+
+COMO UM COMPUTADOR ENTENDE UM PROGRAMA?
+
+- Um programa é um amontoado de palavras 
+senão for possível que o computador entenda
+
+- Tradução:
+1- geração do programa ojeto
+2 - execução do programa objeto
+
+- Interpretação:
+1 - Programa font executado diretamente
+
+--
+
+DESENVOLVIMENTO DE PROGRAMAS:
+
+- Legibilidade:
+* Facilidade de leitura
+* Compreensão
+* Ortogonalidade (coerência nas instruções
+* definiçoes adequadas das estruturas
+
+- Redigiilidade:
+*  Pode conflitar com a legibilidade
+* Ortogonalidade
+* Simplicidade na escrita
+* Suporte a abstração
+* reuso de código
+* Expressividade
+
+- Confiabilidade:
+* Verificação de tipos
+* trata exceções
+* Uso de ponteiros
+* compatibilidade entre compiladores
+
+- Custo:
+* Analise de impacto
+* Treinamento
+* Cdificaça
+* Compilação
+* Execução
+* infra-estrutura
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,245 @@
+SHA -> Significa Secure Hash Algorithm (algoritimo de hash seguro), é um conjunto de funções hash criptográficas projetadas pela NSA (Agência de Segurança Nacional do EUA)
+
+- Os dados de encriptação gera um conjunto de caracteres identificador de 40 digitos
+
+- É uma forma curta de representar  um arquivo.
+
+1 echo "ola, mundo" | openss1 sha1
+2 > (stdin)= f9fc856e559b950175f2b7cd7dad61facbe58e7b
+
+--
+
+OBJETOS INTERNOS DO GIT.
+
+- BLOBS:   <- possui metadados dentro.
+* Vai ter o tipo de objeto
+* Vai ter o tamanho do objeto
+* \0  <-- metadados
+* Conteúdo do arquivo
+*possui sha1 do arquivo
+
+
+-TREE <- Armazena Blobs
+
+* aramzana e aponta para tipos de Blobs difererentes
+* commits
+* \0
+* guarda o nome do arquivo
+* Responsável por montar toda a estrutura de onde esta os arquivos
+* Pode apontar para BLOBS e outras TREE
+* a TREE tem um sha1 do metadado
+
+
+- COMMIT
+
+* tree
+* parente
+* autor
+* mensagem
+* timestamp
+
+--
+
+
+CHAVE SSH E TOKENS:
+
+Chave SSH:
+ - Uma forma de estabelecer uma conexão segura entre duas máquinas.
+- vai ter duas chaves, uma pública e outra privada
+
+Tokens de acesso pessoal
+
+
+--
+
+CICLO DE VIDA DOS ARQUIVOS NO GIT.
+
+UNTRACKED:
+*Arquivos que o git não tem ciência deles
+
+
+TRACKED:
+
+* Arquivos que são rastreados pelo git
+* Pode se subdividir em 3 estagios
+
+- Unmodified
+* arquivo que ainda não foi modificado
+
+- Modified
+* Arquivo que sofreu modificações
+
+- Staged
+Onde os arquivos estão preparados pra fazer parte
+de outro tipo de agrupamento
+
+
+* Arquivos no untracked, daremos um git add . ele é enviado para staged
+
+* Quando estão em staged, daremos um commit, onde colocamos um significado,
+eviamos ele e  retornara para UNMODIFIED para aguardar novas alterações
+
+
+
+O QUE SIGNIFICA REPOSITÓRIO:
+
+Servidor -> REMOTE REPOSITORY
+
+Ambiente de desenvolvimento -> WORKING DIRECTORY,  STAGING AREA, LOCAL REPOSITORY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

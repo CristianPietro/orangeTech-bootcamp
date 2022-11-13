@@ -1,0 +1,102 @@
+TECNICA LINEAR
+
+- Modelo tradicional
+
+- Não tem vinculo
+* estrutura hierarquica
+*programação de computadores
+
+CARACTERISTICAS
+
+- Dimensão única
+- Execuçao sequenciada
+- Recursos limitados
+
+TECNICA ESTRUTURADA
+
+- Oganização, disposição e ordem do elemento
+essenciais que compõem um corpo (concreto ou abstrato)
+
+OBJETIVO
+
+- Escrita
+- Entendimento
+- Validaçao
+- Manutenção
+
+
+TECNICA MODULAR
+
+- Partes independentes que são controladas por 
+um conjunto de regras.
+
+
+- Modelo padrão:
+
+* dados de entrada
+* processo de transformaçao
+* dados de saida
+
+
+-Metas:
+
+* simplificaçao
+* Decompor o problema
+* Verificação do módulo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

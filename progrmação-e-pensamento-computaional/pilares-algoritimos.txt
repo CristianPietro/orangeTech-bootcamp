@@ -1,0 +1,97 @@
+ALGORITMOS
+
+- análie
+* estudo e definição dos dados de entrada e saída
+
+- codificação
+* o algoritmo é codificado de acordo com a linguagem
+de programção escolhida.
+
+-- 
+
+- Sequência de passos com objetivo definido
+
+- execução de tarefas específics
+
+- conjuntos de operções que resultam em uma sucessão
+finita de ações
+
+
+COMO CONSTRUIR ALGORITIMOS/
+
+- compreensão do problema
+- definição do dado de entrada
+- definir processo
+-definir dado de saida
+-ultilizar metodo de construção
+-teste diagnstico
+ 
+
+CONSTRUÇÃO DE ALGORITIMO
+
+-conhecimento´prévio da estrutura e símbolos
+
+- narrativa
+- fluxograma (ultilização de símbolos pre definidos)
+-pseudocódigo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

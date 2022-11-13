@@ -1,0 +1,134 @@
+ / Linux ->
+
+- dir / ls -> Listas de diretorios que tem dentro da pasta de onde estamos
+
+- cd / cd -> Navegar entre os diretórios
+EX: cd .. -> Retornar um nível
+EX: cd Documents/ -> Entrar no diretorio Documents
+
+- cls / clear -> Limpeza da tela
+
+- tecla TAB -> Auto complete
+
+- mkdir / mkdir -> Criar repositório
+
+- > / > ->Redirecionador de fluxo
+EX: echo Hello > hello.txt -> vai jogar pra dentro do arquivo de texto
+
+- del / del -> Deletar arquivos
+EX: del workspace -> exclui o que ta dentro
+
+- rmdir / rm -> Excluir diretórios
+EX: rmdir workspace - Exclui todo o diretório Window
+
+- -a / -a -> Mostra os arquivo invisiveis
+EX: git ls -a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

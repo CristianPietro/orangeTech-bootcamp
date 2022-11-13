@@ -1,0 +1,178 @@
+O QUE É PARADIGMAS
+
+- Foma de resolução de problemas com diretrizes e limitações especificas de cada paradigma ultilizando a linguagem de propramação
+
+CLASSIFICAÇÃO:
+
+- Orientação à objetos
+
+- Procedural
+* chamadas sucessivas e procedimentos separados
+
+- Funcional
+* instruções baseadas em funções
+
+- Estruturado
+* estrutura de blocos aninhados
+
+- Computaçao distribuida
+*Funções executadas de forma independente
+
+- Lógico
+
+
+PARADIGMA ESTRUTURADO:
+
+
+- Conceitos:
+
+* Sequência
+* Decisão -> teste lógico
+* Iteração -> funções laços estruturas consdicionais
+
+- Ultilização:
+
+* Problemas simples e diretos
+* Aprender programação
+
+POO ainda não compreendida por muitos
+
+
+ORIENTAÇÃO À OBJETOS
+
+- Paradigma de programação baseada na ultilização de objetos e suas intenções.
+- Análogo ao mundo real
+
+O QUE É UM OBJETO
+
+- Um objeto é descrito por caracteristicas específicas, comportamentos e estado
+
+( OBJETO CANETA)
+
+- o que tenho:
+
+* Modelo
+* Cor
+* Carga
+* Corpo
+* Tampa
+* Ponta
+
+- O que sou capaz de fazer:
+
+* Escrever
+* Desenhar
+* Rabiscar
+* Pintar
+* Destampar
+
+
+- Como faço
+
+* Tampada
+* Destampada
+* Em uso
+
+
+- Oque eu tenho -> Atributos
+- Sou capaz de fazer -> Métodos
+- Como faço -> Estados
+
+
+O QUE É UM OBJETO DO PONTO DE VISTA DA PROGRAMAÇÃO
+
+- Classe: <- POO
+* Alocação em memória
+* Operações associadas
+
+- Variável <- Estruturada
+* Alocação em memória
+*operações associadas
+
+
+PILARES DE ORIENTAÇÃO A OBJETO:
+
+- Herança
+1 - Classe filho herda as caracteristicas da classe mãe
+1.1 - Comportamento e estado gerais
+1.2 - comportamento e estado específicos
+
+- Encapsulamento
+- Polimorfismo
+- Abstração
+
+
+
+POO - Reuso de código
+
+Paradigmas Estruturados - Problemas específicos e diretos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

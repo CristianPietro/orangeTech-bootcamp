@@ -1,0 +1,24 @@
+OBJETIVO GERAL:
+
+- Problema
+
+* questão
+* prosposta duvidosa
+* objeto de de discussão 
+
+DEFINIÇÃO FORMAL
+
+* Problema é uma  questão que foge a uma determinada rega, ou melhor
+é um desvio de percurso, o qual impede de atingir um objetivo
+com eficiencia e eificácia.
+
+DEFINIÇAO FOORMAL DE LÓGICA
+
+* Parte da filosofia das formas do pensamento em geral 
+(dedução, induçã, hipótese, etc..) e das operações
+intelectuais que visam a determinação do que é verdadeiro ou não
+
+LÓGICA
+
+Organização e planejamento da instruççoes, assertivas em um algoritimo
+a fim de viabilizar a implantaçao de um programa.

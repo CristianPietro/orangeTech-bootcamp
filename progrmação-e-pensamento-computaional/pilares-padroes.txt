@@ -1,0 +1,152 @@
+PADRÕES
+
+* modelo base
+* Estrutura invariante
+* repetição
+
+RECONHECIMENTO DE PADRÕES
+
+-Por que reconhecer padrõe?
+
+* generalizar, com objetivo de oter
+resoluções para problemas diferentes
+
+- categoria e classes
+*Tipo de midia
+* dependem do dominio
+
+PADRÕES PELO SER HUMANO
+
+- grau de similaridade
+- grupos conheidos x objetos desconhecidos
+
+PADRÕES PELO COMPUTADOR
+
+- representação de atibutos
+- aprendizado - conceito associado ao objeto
+- armazaenar dados 
+- regras de decisões
+
+
+ABORDAGEM
+
+-Extração de caracteristicas
+- classificação e dados
+
+- diferentes : metodos e aplicaçõe
+
+
+APLICAÇÕE:
+
+- classificação de dados
+- reconhecimento de imagem
+- reconhecimento de fala
+- análise de cenas
+- classificação de documento
+
+AREAS DE CONHECIMENTO DE RECONHECIMENTO DE PADRÕES
+
+- machine learnig
+- redes neurais
+- inteligencia artificial
+- ciencia de dados
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
